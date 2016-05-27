@@ -1,0 +1,5 @@
+name,number,price_fraction,currency,available,tags,length,resolution,type
+Cat,nr1359,1595/100,USD,true,Tag2 Tag3,7200000,,Audio
+Car,nr1358,250/10,PLN,true,Tag2 Tag3,,3000x4000,Picture
+name,245,150/10,PLN,true,Tag2 Tag3,,3000x4000,Picture
+Dog,nr1356,105/10,ADP,true,Tag2 Tag3,7200000,1920x1080,Video
